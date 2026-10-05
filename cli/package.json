@@ -1,0 +1,42 @@
+{
+  "name": "@altronis/tokenmark-cli",
+  "version": "0.2.1",
+  "description": "TokenMark CLI: recommend the best local-LLM model + config for your hardware from real benchmarks (Strix Halo, DGX Spark, RTX, and more).",
+  "type": "module",
+  "bin": {
+    "tokenmark": "bin/tokenmark.mjs"
+  },
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "llm",
+    "local-llm",
+    "benchmark",
+    "strix-halo",
+    "dgx-spark",
+    "gguf",
+    "tokens-per-second",
+    "llama.cpp",
+    "tokenmark"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sypherin/tokenmark-mcp.git",
+    "directory": "cli"
+  },
+  "homepage": "https://tokenmark.app",
+  "author": "Altronis",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/sypherin/tokenmark-mcp/issues"
+  }
+}

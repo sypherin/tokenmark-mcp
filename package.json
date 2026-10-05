@@ -1,0 +1,42 @@
+{
+  "name": "@altronis/tokenmark-mcp",
+  "version": "0.2.1",
+  "mcpName": "io.github.sypherin/tokenmark-mcp",
+  "description": "TokenMark MCP server: expose local-LLM benchmark configs + hardware-aware model recommendations to Claude and other agents.",
+  "type": "module",
+  "bin": {
+    "tokenmark-mcp": "bin/tokenmark-mcp.mjs"
+  },
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "llm",
+    "local-llm",
+    "benchmark",
+    "strix-halo",
+    "dgx-spark",
+    "claude",
+    "tokenmark"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sypherin/tokenmark-mcp.git"
+  },
+  "homepage": "https://tokenmark.app",
+  "author": "Altronis",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/sypherin/tokenmark-mcp/issues"
+  }
+}
