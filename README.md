@@ -10,6 +10,16 @@ Ask *"what should I run on a Strix Halo for coding?"* and the agent answers from
 claude mcp add tokenmark -- npx -y @altronis/tokenmark-mcp
 ```
 
+## Add to Cline
+
+Cline CLI:
+
+```sh
+cline mcp add tokenmark --yes -- npx -y @altronis/tokenmark-mcp
+```
+
+Cline in VS Code: add the `tokenmark` entry from the JSON below to `cline_mcp_settings.json`. Step-by-step notes for agents are in [llms-install.md](llms-install.md).
+
 ## Add to any MCP client
 
 Run the server over stdio:
