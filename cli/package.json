@@ -1,6 +1,6 @@
 {
   "name": "@altronis/tokenmark-cli",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "TokenMark CLI: recommend the best local-LLM model + config for your hardware from real benchmarks (Strix Halo, DGX Spark, RTX, and more).",
   "type": "module",
   "bin": {
@@ -12,7 +12,7 @@
     "LICENSE"
   ],
   "engines": {
-    "node": ">=18"
+    "node": ">=18.3"
   },
   "keywords": [
     "llm",

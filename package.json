@@ -1,6 +1,6 @@
 {
   "name": "@altronis/tokenmark-mcp",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "mcpName": "io.github.sypherin/tokenmark-mcp",
   "description": "TokenMark MCP server: expose local-LLM benchmark configs + hardware-aware model recommendations to Claude and other agents.",
   "type": "module",
@@ -13,7 +13,7 @@
     "LICENSE"
   ],
   "engines": {
-    "node": ">=18"
+    "node": ">=18.3"
   },
   "keywords": [
     "mcp",

@@ -3,7 +3,7 @@
   "name": "io.github.sypherin/tokenmark-mcp",
   "title": "TokenMark",
   "description": "Measured local-LLM speeds and hardware-aware model picks for Strix Halo, DGX Spark and Mac.",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "websiteUrl": "https://tokenmark.app",
   "repository": {
     "url": "https://github.com/sypherin/tokenmark-mcp",
@@ -13,7 +13,7 @@
     {
       "registryType": "npm",
       "identifier": "@altronis/tokenmark-mcp",
-      "version": "0.2.1",
+      "version": "0.3.0",
       "transport": {
         "type": "stdio"
       }
