@@ -1,4 +1,5 @@
 # @altronis/tokenmark-mcp
+[![M8ven Score](https://m8ven.ai/badge/mcp/sypherin-tokenmark-mcp-wurjy2?v=2f3ca516b976eef15b4df1eb2262188b)](https://m8ven.ai/mcp/sypherin-tokenmark-mcp-wurjy2?s=readme)
 
 An [MCP](https://modelcontextprotocol.io) server that gives Claude (and other agents) real local-LLM benchmark data + hardware-aware model recommendations from [TokenMark](https://tokenmark.app).
 
